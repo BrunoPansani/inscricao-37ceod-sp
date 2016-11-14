@@ -1,0 +1,67 @@
+<html>
+	<head>
+		<title></title>
+		<style type="text/css">
+#hor-minimalist-b
+{
+	font-family: arial, helvetica, Sans-Serif;
+	font-size: 12px;
+	background: #fff;
+	width: 550px;
+	border-collapse: collapse;
+	text-align: left;
+}
+#hor-minimalist-b th
+{
+	font-size: 12px;
+	font-weight: normal;
+	color: #97231f;
+	padding: 5px 5px;
+	border-bottom: 2px solid #97231f;
+	font-weight: bold;
+}
+#hor-minimalist-b td
+{
+	border-bottom: 1px solid #ccc;
+	color: #97231f;
+	padding: 3px 5px;
+}		</style>
+	</head>
+	<body>
+		<p>
+			<img alt="Logo do 37º Congresso da Ordem DeMolay Paulista" src="http://i.imgur.com/Hlnyk9W.png" style="width: 170px; height: 179px;" /></p>
+		<p>
+			<font face="arial, helvetica, sans-serif"><span style="font-size: 12px;">&Agrave; Comiss&atilde;o Organizadora do 37&ordm; CEOD SP,</span></font></p>
+		<p>
+			<span style="font-size: 12px; font-family: arial, helvetica, sans-serif;">Segue a lista dos inscritos que tiveram seus pagamentos confirmados no dia de %data_emissao%:</span></p>
+		<table id="hor-minimalist-b">
+			<thead>
+				<tr>
+					<th scope="col">
+						<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Nome</span></span></th>
+					<th scope="col">
+						<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">CID</span></span></th>
+					<th scope="col">
+						<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Data Inscri&ccedil;&atilde;o</span></span></th>
+					<th scope="col">
+						<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Data Liquida&ccedil;&atilde;o</span></span></th>
+					<th scope="col">
+						<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Forma de Pagamento</span></span></th>
+					<th scope="col">
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">Valor</span></span></th>
+				</tr>
+			</thead>
+			<tbody>
+				%linhas%
+			</tbody>
+		</table>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">As seguintes confirma&ccedil;&otilde;es falharam ao serem enviadas:<br />
+			%falhas%</span></span></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><b>M&iacute;dias Digitais e Sociais</b><br />
+			Grande Cap&iacute;tulo do Estado de S&atilde;o Paulo<br />
+			Supremo Conselho da Ordem DeMolay para o Brasil<br />
+			<img alt="Logo do Grande Capítulo do Estado de São Paulo" src="http://i.imgur.com/2u9kTGz.png" style="width: 100px; height: 99px;" /></span></span></p>
+	</body>
+</html>

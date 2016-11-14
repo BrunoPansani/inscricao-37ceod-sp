@@ -1,0 +1,131 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700';
+
+::selection {
+  background-color: #b5e2e7;
+}
+
+::-moz-selection {
+  background-color: #8ac7d8;
+}
+
+body {
+  background: #ececec;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  display: -webkit-flex;
+  display: flex;
+  height: 100%;
+}
+
+#logbox {
+  padding: 10px;
+  margin: 50px auto;
+  /*width: 340px; */
+  background-color: #fff;
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+  overflow: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 175%;
+  color: #757575;
+  font-weight: 300;
+}
+h4 {
+  text-align: center;
+  font-size: 125%;
+  color: #757575;
+  font-weight: 300;
+}
+
+h1, h4, input {
+  font-family: "Open Sans", Helvetica, sans-serif;
+}
+
+.input, select {
+  width: 100%;
+  height: 50px;
+  display: block;
+  margin: 0 auto 15px;
+  padding: 0 15px;
+  border: none;
+  border-bottom: 2px solid #ebebeb;
+}
+.input-cid {
+  width: 75%;
+}
+.input:focus, select:focus {
+  outline: none;
+  border-bottom-color: #e8140d !important;
+}
+.input:hover, select:hover {
+  border-bottom-color: #dcdcdc;
+}
+.input:invalid, select:invalid {
+  box-shadow: none;
+}
+
+.select {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 2em;
+}
+.select label {
+    font-weight: 300;
+    color: #757575;
+    font-family: "Open Sans";
+}
+select {
+    width: 100%;
+    height: 40px;
+}
+
+.pass:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 1000px white inset;
+}
+
+.inputButton {
+  position: relative;
+  width: 85%;
+  height: 50px;
+  display: block;
+  margin: 30px auto 30px;
+  color: white;
+  background-color: #e8140d;
+  border: none;
+  -webkit-box-shadow: 0 5px 0 #af0600;
+  -moz-box-shadow: 0 5px 0 #af0600;
+  box-shadow: 0 5px 0 #af0600;
+}
+.inputButton:hover {
+  top: 2px;
+  -webkit-box-shadow: 0 3px 0 #af0600;
+  -moz-box-shadow: 0 3px 0 #af0600;
+  box-shadow: 0 3px 0 #af0600;
+}
+.inputButton:active {
+  top: 5px;
+  box-shadow: none;
+}
+.inputButton:focus {
+  outline: none;
+}
+blockquote small:before {
+    display:none;
+}
+a.inputButton {
+    padding: 15px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+select:disabled {
+    color: #ccc;
+    cursor: not-allowed;
+}

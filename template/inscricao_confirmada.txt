@@ -1,0 +1,31 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<p>
+			<img alt="Logo do 37º Congresso da Ordem DeMolay Paulista" src="http://i.imgur.com/Hlnyk9W.png" style="width: 170px; height: 179px;" /></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Ol&aacute; %nome_inscrito%,</span></span></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Agradecemos a sua inscri&ccedil;&atilde;o para se tornar um congressista do 37&ordm; Congresso Estadual da Ordem DeMolay de S&atilde;o Paulo!</span></span></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Esperamos receber voc&ecirc; em breve, aqui na capital paulista, nos dias 19 e 20 de novembro.</span></span></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Ressaltamos que ser&aacute; uma experi&ecirc;ncia que dividir&aacute; espa&ccedil;o com o 9&ordm; Encontro Paulista da Ordem da Cavalaria e a vers&atilde;o 2016 da Conven&ccedil;&atilde;o Anual da &ldquo;9 de Julho&rdquo;!</span></span></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;">Bem-vindo a bordo, esperamos ver voc&ecirc; em breve!&nbsp; Enquanto isso, n&atilde;o deixe de conferir nossas atualiza&ccedil;&otilde;es nas redes sociais:</span></span></p>
+		<p>
+			<a href="https://www.facebook.com/ceod2016/"><img alt="Facebook" src="http://i.imgur.com/ZhBYeuj.png" style="width: 24px; height: 24px;" /></a>&nbsp;&nbsp;<a href="http://www.instagram.com/ceodsp2016/"><img alt="Instagram" src="http://i.imgur.com/ZJzeBpQ.png" style="width: 24px; height: 24px;" /></a>&nbsp;&nbsp;<a href="https://www.youtube.com/channel/UCY0U-fHyYBJqoOHO9LmMv4w"><img alt="Youtube" src="http://i.imgur.com/fiQVx6v.png" style="width: 24px; height: 24px;" /></a></p>
+		<p>
+			<span style="font-family: arial, helvetica, sans-serif; font-size: 12px;">VENHA PARA O BR&Aacute;S!</span></p>
+		<p>
+			<span style="font-size:12px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Comiss&atilde;o Organizadora</strong><br />
+			1&ordm; Regi&atilde;o Administrativa do Estado de S&atilde;o Paulo da Ordem DeMolay<br />
+			Grande Cap&iacute;tulo do Estado de S&atilde;o Paulo<br />
+			Supremo Conselho da Ordem DeMolay para o Brasil<br />
+			<img alt="Logo do Grande Capítulo do Estado de São Paulo" src="http://i.imgur.com/2u9kTGz.png" style="width: 100px; height: 99px;" /></span></span></p>
+		<p>
+			<span style="font-size:10px;"><span style="font-family:arial,helvetica,sans-serif;">CID: %cid% ID COBRAN&Ccedil;A: %id_cobranca% DATA LIQUIDA&Ccedil;&Atilde;O: %data_liquidacao% FORMA: %forma_pagamento%</span></span></p>
+	</body>
+</html>

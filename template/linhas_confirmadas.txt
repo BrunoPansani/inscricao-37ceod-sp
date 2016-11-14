@@ -1,0 +1,14 @@
+				<tr>
+					<td>
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">%nome_inscrito%</span></span></td>
+					<td>
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">%cid_inscrito%</span></span></td>
+					<td>
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">%data_inscricao%</span></span></td>
+					<td>
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">%data_liquidada%</span></span></td>
+					<td>
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">%forma_pagamento%</span></span></td>
+					<td>
+						<span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:12px;">%valor%</span></span></td>
+				</tr>
